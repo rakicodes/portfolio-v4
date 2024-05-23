@@ -25,7 +25,7 @@ const projects = [
 		description:
 			"A fun way to send invitations to friends and loved ones- get them to say yes no matter what! Create an invitation and share the link to your friends!",
 		github: "https://github.com/rakicodes/invitation-v2",
-		site: "https://invitation-to-edmonton.netlify.app/",
+		site: "https://sayyes-invitation.vercel.app/",
 		tech: ["Next", "Express", "MongoDB", "Node", "TailwindCSS"]
 	},
 	{
