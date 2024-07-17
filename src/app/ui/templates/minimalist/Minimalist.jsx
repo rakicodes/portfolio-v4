@@ -22,9 +22,6 @@ const Minimalist = ({ hero, skills, experiences, projects, socials, about, conta
       <Grid id="skills" item xs={12} paddingBottom={theme.spacing(6)}>
         <Skills skills={skills}/>
       </Grid>
-      <Grid item xs={12} paddingBottom={theme.spacing(6)}>
-        <Experience experiences={experiences} />
-      </Grid>
       <Grid id="about" item xs={12} paddingBottom={theme.spacing(6)}>
         <About about={about} />
       </Grid>
